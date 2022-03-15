@@ -264,7 +264,7 @@ namespace lab1_02._03
         }
     }
 
-    class Program
+    class lab1
     {
         static void Main(string[] args)
         {
