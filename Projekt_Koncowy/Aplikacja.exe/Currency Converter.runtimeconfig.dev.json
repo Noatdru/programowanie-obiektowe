@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\janta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\janta\\.nuget\\packages"
+    ]
+  }
+}
